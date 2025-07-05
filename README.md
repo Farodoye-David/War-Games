@@ -3,6 +3,7 @@ Card War Game
 A simple card game simulation built in Python and presented in a Jupyter Notebook. The classic "War" card game is played between two players, where each draws a card and the higher card wins. This project demonstrates Python class usage, loops, and game logic in a clean and interactive format.
 
 📂 Project Contents
+
 card_war_game.ipynb – Jupyter notebook with the complete implementation and explanation.
 
 README.md – This file, giving an overview of the project.
